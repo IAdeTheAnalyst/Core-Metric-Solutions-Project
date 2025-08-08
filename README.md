@@ -18,7 +18,7 @@ This project presents a dynamic HR analytics dashboard built in Power BI for **C
 
 ## 📊 Dashboard Preview
 
-![CoreMetric HR Dashboard](Core%20Metric%20Solutions.png)
+![CoreMetric HR Dashboard](CM%20Solutions.png)
 
 ---
 
