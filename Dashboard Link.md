@@ -1,6 +1,3 @@
-# 🧑‍💼 CoreMetric Solutions — HR Analytics Dashboard
-
-This project presents a dynamic HR analytics dashboard built in Power BI for **CoreMetric Solutions**, offering a comprehensive overview of employee metrics.
 
 ## 🔗 View the Live Dashboard
 
