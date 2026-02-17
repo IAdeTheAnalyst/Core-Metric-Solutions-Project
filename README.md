@@ -1,5 +1,4 @@
 # CoreMetric Solutions — HR Analytics Dashboard
-
 In this project, I developed a dynamic HR analytics dashboard in Power BI for a simulated organization, CoreMetric Solutions. My objective was to transform raw workforce data into a centralized, executive-ready dashboard that supports strategic HR decision-making.
 I focused on visualizing employee distribution, promotion readiness, tenure trends, workforce composition, and commuting patterns. Through data modeling and DAX calculations, I created an interactive dashboard that enables HR leaders to monitor workforce health, identify advancement opportunities, and support retention planning.
 ---
